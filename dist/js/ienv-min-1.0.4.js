@@ -970,7 +970,7 @@
                 t = (this._location.split("#")[0], +new Date()),
                 i = this,
                 o =
-                  window.location.href.indexOf("51job.com") > -1
+                  window.location.href.indexOf("hanyao426.github.io") > -1
                     ? "//sdk.51job.com/mobile/post.php"
                     : "//testsdk.51ideal.com/post.php";
               this.ajax({
